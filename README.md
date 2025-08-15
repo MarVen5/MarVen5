@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an undergraduate student from USTC who is attempting to self-study CS / AI / DS.
+I am an undergraduate student from USTC who is major inCS / AI / DS.
 
 I'm working on it.
 <!--
