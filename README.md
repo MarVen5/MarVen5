@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 I am an undergraduate student from USTC who is major in CS / AI / DS.
-
-I'm working on it.
 <!--
 **MarVen5/MarVen5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
