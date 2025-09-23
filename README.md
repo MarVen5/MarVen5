@@ -1,6 +1,13 @@
 ## Hi there 👋
 
 I am an undergraduate student from USTC who is major in CS / AI / DS.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarVen5/MarVen5/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarVen5/MarVen5/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/MarVen5/MarVen5/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!--
 **MarVen5/MarVen5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
