@@ -2,6 +2,8 @@
 
 I'm Wenyu Ma, an undergraduate student from USTC who is major in CS / AI / DS.
 
+Email : mars72 at mail.ustc.edu.cn
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarVen5/MarVen5/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarVen5/MarVen5/output/github-contribution-grid-snake.svg" />
