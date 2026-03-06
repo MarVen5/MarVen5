@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Wenyu Ma. An undergraduate student from USTC who is major in CS / AI / DS.
+I'm Wenyu Ma, an undergraduate student from USTC who is major in CS / AI / DS.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarVen5/MarVen5/output/github-contribution-grid-snake-dark.svg" />
